@@ -42,7 +42,7 @@ Model Performance:
 ### Second Step
 
 Target:
-*   Lower number of parameters (Near to our target of <=10000 Parameters)
+*   Lower number of parameters (Near to our target of <=8000 Parameters)
 *   Batch-norm to increase model efficiency
 *   DropOut to avoid overfitting
 *   Add GAP Layer and remove last big kernel
